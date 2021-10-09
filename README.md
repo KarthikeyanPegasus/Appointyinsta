@@ -67,7 +67,7 @@ To rectify this error, You are requested to follow the instructions below.
 
 <o> Kindly replace the collections name "Posts" with the collection which is having the schema of posts, contains Id, Caption, ImageURL, PTtime.
 
-[Important. if a single word in the above FAQ changed, will result in fault working of the code](#)
+Important.Make sure you follow each and every step while creating databse. faulting this resulting in not working of the code.
 
 ii)  curl returns null means, successfully connected to database, but either table is empty or table is not created successfully, retry the above step, make sure it is case-sensitive. 
 
